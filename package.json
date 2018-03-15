@@ -1,6 +1,6 @@
 {
   "name": "zotero-base-mappings",
-  "description": "Mappings from Zotero Client exported as a js object",
+  "description": "Base mappings parsed from Zotero Client SQL and exported as a JS object",
   "version": "0.0.1",
   "main": "index.js",
   "author": "Tom Najdek",
