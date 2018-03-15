@@ -1,7 +1,7 @@
 {
   "name": "zotero-base-mappings",
   "description": "Base mappings parsed from Zotero Client SQL and exported as a JS object",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "author": "Tom Najdek",
   "license": "AGPL-3.0",
